@@ -1,0 +1,13 @@
+[1mdiff --git a/css2.html b/css2.html[m
+[1mindex 1f1e7b7..9d9482a 100644[m
+[1m--- a/css2.html[m
+[1m+++ b/css2.html[m
+[36m@@ -11,6 +11,6 @@[m
+     <h1>Este título está en nuestra página número 2</h1>[m
+ [m
+     <h3>Esto es un título con menor relevancia</h3>[m
+[31m-    <p>asd</p>[m
+[32m+[m[41m    [m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
